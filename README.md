@@ -7,4 +7,4 @@
 | 3 | Ridho Yanuar | 2124600046 | |
 | 4 | Moch. Akhdan Nabilly | 2124600038 | 3d Design |
 | 5 | Anggara Bayu Saputra| 2124600057 |Ui/Ux |
-| 6 | Aissyah Fitriani| 2124600059 | | 
+| 6 | Aissyah Fitriani| 2124600059 | Nonteknis| 
